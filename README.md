@@ -1,2 +1,2 @@
-# My project
+# Tribute Page
 A tribute page for Nelson Mandela 
